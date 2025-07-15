@@ -5,7 +5,7 @@ A Python desktop application for spectral unmixing analysis of mineral samples u
 ## Features
 
 - **Spectral Unmixing Algorithms**: Weighted Least Squares (WLS) and Sum-to-One (STO)
-- **Modern GUI**: Built with ttkbootstrap for a modern themed interface
+- **Modern GUI**: Built with ttkbootstrap
 - **Data Management**: Import and preprocess CSV/Excel spectral data
 - **Interactive Visualization**: Real-time spectral plotting and comparison
 - **Results Analysis**: Comprehensive analysis with fit quality metrics
@@ -89,11 +89,6 @@ Solves: `Abundances = (E^T W E)^-1 E^T W M`
 ### Sum-to-One (STO)
 - Constrained unmixing ensuring abundances sum to 1
 - Also removes negative abundances iteratively
-- Ideal for closed-system mineral compositions
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
