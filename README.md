@@ -32,7 +32,7 @@ The application provides:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mineral-spectra-analyzer.git
+git clone https://github.com/lsantori/mineral-spectra-analyzer.git
 cd mineral-spectra-analyzer
 ```
 
