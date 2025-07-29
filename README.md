@@ -32,7 +32,7 @@ The application provides:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/lsantori/mineral-spectra-analyzer.git
+git clone https://github.com/lsantori/Linear_Unmixing.git
 cd mineral-spectra-analyzer
 ```
 
